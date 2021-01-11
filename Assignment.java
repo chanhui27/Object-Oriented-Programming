@@ -12,13 +12,13 @@ public class Assignment {
 	static Scanner userIn = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		//q1();
-		//q2();
-		//q3();
-		//q4();		
-		//q5();
-		//q6();
-		//q7();
+		q1();
+		q2();
+		q3();
+		q4();		
+		q5();
+		q6();
+		q7();
 		userIn.close();
 	}
 	public static void q1() {
